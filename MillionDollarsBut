@@ -1,0 +1,329 @@
+<html>    
+<head>
+    <title>Temp million dollars but</title>        
+    <link rel= "stylesheet" type="text/css" href="CSS.css"> 
+    </head>    
+    <body>        
+    <h1>Welcome to a "Million Dollars But"</h1> 
+<dl>
+
+<div class="topnav">
+  <a class="active" href="MDB.html">Home</a>
+  <a href="Page2.html">About</a>
+  <a href="#contact">Contact</a>
+</div>
+
+<hr>
+
+    <p>How to Play the Game</p>
+    <p>A Million Dollars But is a game that puts your morals and imagination to the test, posing the question, "What would you do for a million dollars?" If you're ready to see how far you will go for a million dollars, scroll down below. pick yes or no to the scenarios then put down how many millions you've made.</p>
+</dl>
+
+<ul>
+    <form onsubmit="return test();" action="blah.php" method="post" name="rooster">
+<table>
+    <tr>
+        <th>Season 1 Episode 1</th>
+    </tr>
+    
+    <tr>
+        <td><p>
+            <li>1 Million Dollars but, whenever you pay for something, the guy has to suck his finger, put it right up your ear, keep it there for around 2 seconds, pull it out, and that completes the transaction.</li>
+        </p></td>
+          
+        <td>
+            <input type="radio" name="million1" id="yes" value="yes">Yes
+            <input type="radio" name="million1" id="no" value="no">No 
+        </td>
+    </tr>
+    
+    <tr>
+        <td><p>    
+          <li>1 Million Dollars But, For five years you could only wear shirts, sweaters and jackets that are three sizes too small.</li>
+          </p></td>
+          
+          <td>
+            <input type="radio" name="million2" id="yes" value="yes">Yes
+            <input type="radio" name="million2" id="no" value="no">No 
+        </td>
+    </tr>
+    
+    <tr>
+        <td><p>
+            <li>1 Million Dollars But, for the rest of your life, every time you hear a dog bark, you poop a little bit.</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million3" id="yes" value="yes">Yes
+            <input type="radio" name="million3" id="no" value="no">No
+        </td>
+</table> 
+</br>
+
+<table>
+    <tr>
+        <th>Episode 2</th>
+    </tr>
+    
+    <tr>
+        <td><p>
+            <li>1 Million Dollars But, any time you forget something, it's gone forever. it simply vanishes from existence (only works with objects, not people or places).</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million4" id="yes" value="yes">Yes
+            <input type="radio" name="million4" id="no" value="no">No
+        </td>
+    </tr>
+    <tr>
+        <td><p>
+            <li>1 Million Dollars But, Every time you see someone you find attractive, you vomit just a little bit.</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million5" id="yes" value="yes">Yes
+            <input type="radio" name="million5" id="no" value="no">No
+        </td>
+    </tr>
+</table>
+</br> 
+
+<table>
+    <tr>
+        <th>Episode 3</th>
+    </tr>
+    <tr>
+        <td><p>
+            <li>1 Million Dollars But, Any time you use an object, from that point, the entire time you use it, it says its name.</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million6" id="yes" value="yes">Yes
+            <input type="radio" name="million6" id="no" value="no">No
+        </td>
+    </tr>
+    <tr>
+        <td><p>
+            <li>1 Million Dollars But, Every time you spend any bit of that 1 million dollars, you have to lick it (front & back and yes you have to lick your credit/debit card).</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million7" id="yes" value="yes">Yes
+            <input type="radio" name="million7" id="no" value="no">No
+        </td>
+    </tr>
+</table>
+</br>
+
+<table>
+    <tr>
+        <th>Episode 4</th>
+    </tr>
+     <tr>
+        <td><p>
+            <li>1 Million Dollars But, You would have installed (right at the top of your head, right by your hairlines) a red LED right that lights up every time you have a negative thought.</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million8" id="yes" value="yes">Yes
+            <input type="radio" name="million8" id="no" value="no">No
+        </td>
+    </tr>
+     <tr>
+        <td><p>
+            <li>1 Million Dollars But, for the rest of your life, every time you hear the Happy Birthday song, you have to go over to the place it's being sung and eat the birthday cake</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million9" id="yes" value="yes">Yes
+            <input type="radio" name="million9" id="no" value="no">No
+        </td>
+    </tr>
+</table>
+</br>
+
+<table>
+    <tr>
+        <th>Episode 5</th>
+    </tr>
+    <tr>
+        <td><p>
+            <li>1 Million Dollars But, For one year, everywhere you go, you are pushed in a baby stroller by an incredibly strong, muscular man wearing a tiny muscle-showing outfit. </li>
+        </p></td>
+        <td>
+            <input type="radio" name="million10" id="yes" value="yes">Yes
+            <input type="radio" name="million10" id="no" value="no">No
+        </td>
+    </tr>
+    <tr>
+        <td><p>
+            <li>1 Million Dollars and, You also can go to any movie you want for free but during the duration of the film spaghetti is constantly flowing out of your mouth (if you bring friends along they get the same treatment)</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million11" id="yes" value="yes">Yes
+            <input type="radio" name="million11" id="no" value="no">No
+        </td>
+    </tr>
+    <tr>
+        <td><p>
+            <li>1 Million Dollars and, You also get the greatest dog in the entire world, it does whatever you want and it can talk-- but no one else in the world can see or hear this dog, you can't prove in any way that it exists, and if you ever ignore it intentionally it loses the ability to talk.</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million12" id="yes" value="yes">Yes
+            <input type="radio" name="million12" id="no" value="no">No
+        </td>
+    </tr>
+</table>
+</br>
+
+<table>
+    <tr>
+        <th>Episode 6</th>
+    </tr>
+    <tr>
+        <td><p>
+            <li>1 million dollars but, You give birth once a month to a miniature version of yourself and it goes through its full lifecycle in 2 days and then dies (for the rest of your life)</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million13" id="yes" value="yes">Yes
+            <input type="radio" name="million13" id="no" value="no">No
+        </td>
+    </tr> 
+        
+    <tr>
+        <td><p>
+            <li>1 million dollars but, For the rest of your life, whenever you see a kitchen sponge, you eat it immediately.</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million14" id="yes" value="yes">Yes
+            <input type="radio" name="million14" id="no" value="no">No
+        </td>
+    </tr>
+        
+    <tr>
+        <td><p>
+            <li>1 million dollars but, Once a month for a year, you have to go out on a nice date with Hitler</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million15" id="yes" value="yes">Yes
+            <input type="radio" name="million15" id="no" value="no">No
+        </td>
+    </tr>
+</table>
+</br>
+
+<table>
+    <tr>
+        <th>Episode 7</th>
+    </tr>
+    
+    <tr>
+        <td><p>
+            <li>1 Million Dollars But, Every time you get dressed there's a 1/20 chance everything you're wearing will disappear at random at some point during the day</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million16" id="yes" value="yes">Yes
+            <input type="radio" name="million16" id="no" value="no">No
+        </td>
+    </tr>
+        
+    <tr>
+        <td><p>
+            <li>1 million dollars but, Every dollar you spend, your signifficant other has a random bodypart get bigger or smaller</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million17" id="yes" value="yes">Yes
+            <input type="radio" name="million17" id="no" value="no">No
+        </td>
+    </tr>
+        
+    <tr>
+        <td><p>
+            <li>1 million dollars but, You always have to wear a fully opened parachute, at all times (and it will get in the way!)</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million18" id="yes" value="yes">Yes
+            <input type="radio" name="million18" id="no" value="no">No
+    </tr>
+</table>
+</br>
+
+<table>
+    <tr>
+        <th>Episode 8</th> 
+    </tr>
+        
+    <tr>
+        <td><p>
+            <li>1 million dollars but, Every time you fart, you need to stop, waft it into your own face and smell it dramatically</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million19" id="yes" value="yes">Yes
+            <input type="radio" name="million19" id="no" value="no">No
+        </td>
+    </tr>
+        
+    <tr>
+        <td><p>
+            <li>1 Million Dollars But, For the rest of your life, every time you sneeze, you teleport somewhere random in the world.</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million20" id="yes" value="yes">Yes
+            <input type="radio" name="million20" id="no" value="no">No
+        </td>
+    </tr>
+        
+    <tr>
+        <td><p>
+            <li>Every time you cut yourself, all of your blood comes out (you don't die it'll all come back in a second, but the mess you make stays)</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million21" id="yes" value="yes">Yes
+            <input type="radio" name="million21" id="no" value="no">No
+        </td>
+    </tr>
+</table>
+</br>
+
+<table>
+    <tr>
+        <th>Episode 9</th>
+    </tr>
+    
+    <tr>
+        <td><p>
+            <li>1 million dollars but, Instead of the tastebuds being on the tongue, your entire hand is full of really sensitive tastebuds-- you taste everything you touch</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million22" id="yes" value="yes">Yes
+            <input type="radio" name="million22" id="no" value="no">No
+        </td>
+        </tr>
+        
+        <tr>
+        <td><p>
+            <li>1 million dollars but, For the rest of your life, you lactate (and it's really good milk)</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million23" id="yes" value="yes">Yes
+            <input type="radio" name="million23" id="no" value="no">No
+        </td>
+        </tr>
+        
+        <tr>
+        <td><p>
+            <li>1 million dollars but, The moment you take the money, from that moment on, a random object will stick to you permanently the next time you encounter it, every time you encounter it</li>
+        </p></td>
+        <td>
+            <input type="radio" name="million24" id="1" value="yes">Yes
+            <input type="radio" name="million24" id="0" value="no">No
+        </td>
+        </tr>
+</table>
+</br>
+</ul>                                                                                                                                                             
+    
+
+<p>Click submit to see how many millions you made!</p>
+<input type="Submit">
+</form>
+
+<script type="text/javascript" src="mdb.js"></script>
+<script src="jquery-3.4.1.min.js"></script>
+
+
+</body>
+</html>
